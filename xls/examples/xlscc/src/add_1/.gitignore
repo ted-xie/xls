@@ -1,0 +1,5 @@
+*.o
+*.ir
+yacctab.py
+lextab.py
+*.v
